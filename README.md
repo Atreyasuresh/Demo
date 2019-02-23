@@ -1,2 +1,2 @@
 # Demo
-Github demo first time
+Github demonstration for the first time
